@@ -12,6 +12,7 @@ import MyFavoriteBooks from './MyFavoriteBooks';
 import Login from './Login';
 import { withAuth0 } from '@auth0/auth0-react';
 import Profile from './Profile';
+import BestBooks from './BestBooks';
 
 class App extends React.Component {
 
